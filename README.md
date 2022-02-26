@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-I'm Hemerson Foreste from Port-au-Prince, Haiti. Web development and Technology enthusiastic. Interested in coding and project management.  Love litterature and music. Always learning. Open to new opportunities.
+I'm Hemerson Foreste from Port-au-Prince, Haiti. Web development and Technology enthusiastic. Interested in coding and project management. Love literature and music. Always learning. Open to new opportunities.
 
 - 🔭 I’m currently focused on JavaScript, CSS, API and DOM
 - 🌱 I’m currently learning Web Development
