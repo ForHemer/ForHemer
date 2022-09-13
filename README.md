@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 I'm Hemerson Foreste. Web development and Technology enthusiastic. Interested in coding and project management. Love literature and music. Always learning. Open to new opportunities.
 
-- 🔭 I’m currently focused on JavaScript, CSS, API and DOM
+- 🔭 I’m currently focused on JavaScript, React, and Rails
 - 🌱 I’m currently searching for new opportunities
 - 👯 I’m looking to collaborate on Javascript, Rails and React
 - 📫 How to reach me: [foreste.hemerson@gmail.com](mailto:foreste.hemerson@gmail.com)
