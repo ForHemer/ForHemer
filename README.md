@@ -16,8 +16,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-I'm Hemerson Foreste. Web development and Technology enthusiastic. Interested in coding and project management. Love literature and music. Always learning. Open to new opportunities.
+<h3 align="center"> Hi there, I'm <a href="https://www.hemerson-foreste.me/" target="_blank" rel="noreferrer">Hemerson Foreste</a> 👋 </h3>
+
+<h2 align="center"> Software Developer || Full-Stack Web Developer </h2> 
+
+I am interested in the entire software life cycle process, mainly analysis, design, coding, quality assurance, and project management. I like literature, meditation, and music. And since I know nothing to repeat Socrates, I am a constant learner.
+
+### 🤝 Connect with me:
+
+<a href="https://twitter.com/HemersonForeste"><img align="left" src="./images/twitter.png" alt="Hemerson | Twitter" width="21px"/></a>
+<a href="https://www.linkedin.com/in/hemerson-foreste"/><img align="left" src="./images/linkedin.png" alt="Hemerson | LinkedIn" width="21px"/></a>
+<a href="https://medium.com/@hemerson.foreste"><img align="left" src="./images/medium.png" alt="Hemerson | Medium" width="21px"/></a>
+<a href="https://angel.co/u/hemerson-foreste"><img align="left" src="./images/angelist.png" alt="Hemerson | Angel width="21px"/></a>
+</br>
 
 - 🔭 I’m currently focused on JavaScript, React, and Rails
 - 🌱 I’m currently searching for new opportunities
