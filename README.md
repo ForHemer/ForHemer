@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 I am interested in the entire software life cycle process, mainly analysis, design, coding, quality assurance, and project management. I like literature, meditation, and music. And since I know nothing to repeat <strong>Socrates</strong>, I am a constant learner.
 
+
 ### 🤝 Connect with me:
 
 <a href="https://twitter.com/HemersonForeste"><img align="left" src="./images/twitter.png" alt="Hemerson | Twitter" width="21px"/></a>
@@ -30,6 +31,8 @@ I am interested in the entire software life cycle process, mainly analysis, desi
 <a href="https://angel.co/u/hemerson-foreste"><img align="left" src="./images/angelist.png" alt="Hemerson | Angel" width="21px"/></a>
 <a href="mailto:foreste.hemerson@gmail.com"><img align="left" src="./images/mail-inbox-app.png" alt="Hemerson | Email" width="21px"/></a>
 </br>
+
+
 
 ## 💼 Technical Skills
 
@@ -53,12 +56,15 @@ I am interested in the entire software life cycle process, mainly analysis, desi
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+
 ## 📝 Latest Blog Posts
+
 
 - [Self-discipline, the rock behind success](https://medium.com/@hemerson.foreste/self-discipline-the-rock-behind-success-d65bfc8dafa5)
 
 
 ## 📈 GitHub Stats 
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ForHemer&count_private=true)](https://github.com/ForHemer)
 
