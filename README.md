@@ -27,7 +27,7 @@ I am interested in the entire software life cycle process, mainly analysis, desi
 <a href="https://twitter.com/HemersonForeste"><img align="left" src="./images/twitter.png" alt="Hemerson | Twitter" width="21px"/></a>
 <a href="https://www.linkedin.com/in/hemerson-foreste"/><img align="left" src="./images/linkedin.png" alt="Hemerson | LinkedIn" width="21px"/></a>
 <a href="https://medium.com/@hemerson.foreste"><img align="left" src="./images/medium.png" alt="Hemerson | Medium" width="21px"/></a>
-<a href="https://angel.co/u/hemerson-foreste"><img align="left" src="./images/angelist.png" alt="Hemerson | Angel width="21px"/></a>
+<a href="https://angel.co/u/hemerson-foreste"><img align="left" src="./images/angelist.png" alt="Hemerson | Angel" width="21px"/></a>
 </br>
 
 - 🔭 I’m currently focused on JavaScript, React, and Rails
